@@ -10,4 +10,12 @@ publishDir = "public"
   description = "Personal portfolio and blog"
   showReadingTime = true
   github = "https://github.com/more-robots-please"
+  customCSS = ["terminal.css"]
+  favicon = "favicon.svg"
 
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about"
+  weight = 1
+  

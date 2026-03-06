@@ -1,5 +1,73 @@
 :root {
-  --background: #1a170f;
-  --foreground: #eceae5;
-  --accent: #ee82cf;
+  --background: #0a0a0a;
+  --color: #e0e0e0;
+  --accent: #ff2d78;
+}
+
+/* Background */
+body {
+  background-color: var(--background);
+  color: var(--color);
+}
+
+/* Neon pink accent — links, highlights, prompt */
+a,
+a:visited {
+  color: var(--accent);
+}
+
+a:hover {
+  color: #ff69b4;
+  text-shadow: 0 0 8px #ff2d78;
+}
+
+/* Header / nav bar */
+.header,
+header {
+  border-bottom: 1px solid var(--accent);
+}
+
+.menu a,
+.navigation a {
+  color: var(--color);
+}
+
+.menu a:hover,
+.navigation a:hover {
+  color: var(--accent);
+  text-shadow: 0 0 6px #ff2d78;
+}
+
+/* Terminal prompt symbol */
+.prompt,
+.language-bash .prompt {
+  color: var(--accent);
+}
+
+/* Post titles */
+h1, h2, h3 {
+  color: var(--accent);
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #111;
+  border: 1px solid #ff2d78;
+}
+
+/* Cursor blink — neon pink */
+.cursor {
+  background-color: var(--accent);
+}
+
+/* Tag pills */
+.tag {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* Selection highlight */
+::selection {
+  background: #ff2d78;
+  color: #0a0a0a;
 }
