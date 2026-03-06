@@ -1,0 +1,12 @@
+# Hugo output – never commit this
+/public/
+
+# OS / editor artefacts
+.DS_Store
+*~
+*.swp
+*.bak
+
+# IDE / editor specific
+.idea/
+.vscode/

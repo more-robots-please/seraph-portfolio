@@ -1,0 +1,13 @@
+baseURL = "https://seraph.ws/"
+languageCode = "en-us"
+title = "Seraph"
+theme = "terminal"
+publishDir = "public"
+
+
+[params]
+  author = "Your Name"
+  description = "Personal portfolio and blog"
+  showReadingTime = true
+  github = "https://github.com/more-robots-please"
+

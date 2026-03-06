@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://seraph.ws/posts/firstpost/</loc>
+    <lastmod>2026-03-05T23:16:56+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/posts/</loc>
+    <lastmod>2026-03-05T23:16:56+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/about/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/actix/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/projects/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/rust/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/projects/url-shortener/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/web/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/categories/</loc>
+  </url>
+</urlset>
