@@ -9,6 +9,14 @@
   border-color: #ff2d78 !important;
 }
 
+.header__logo::after {
+  background: repeating-linear-gradient(
+    90deg,
+    var(--accent), var(--accent) 4px,
+    transparent 0, transparent 10px
+  ) !important;
+}
+
 .logo__cursor {
   background: #ff2d78 !important;
 }
