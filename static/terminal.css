@@ -66,6 +66,11 @@ a:hover {
   border: none !important;
 }
 
+.navigation-menu__inner,
+.menu--desktop {
+  border: none !important;
+}
+
 .menu a,
 .navigation a {
   color: var(--color);
