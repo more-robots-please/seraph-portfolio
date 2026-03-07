@@ -1,31 +1,24 @@
-:root {
-  --accent: #ff2d78 !important;
-  --primary-color: #ff2d78 !important;
-  --header-border: #ff2d78 !important;
-}
-
-
 @import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
 
-body, code, pre, * {
-  font-family: 'Hack', monospace !important;
-}
-
+/* ── Variables ── */
 :root {
   --background: #0a0a0a;
   --color: #e0e0e0;
   --accent: #ff2d78;
 }
 
-/* Background */
+/* ── Base ── */
+body, code, pre, * {
+  font-family: 'Hack', monospace !important;
+}
+
 body {
   background-color: var(--background);
   color: var(--color);
 }
 
-/* Neon pink accent — links, highlights, prompt */
-a,
-a:visited {
+/* ── Links ── */
+a, a:visited {
   color: var(--accent);
 }
 
@@ -34,8 +27,20 @@ a:hover {
   text-shadow: 0 0 8px #ff2d78;
 }
 
-/* Header / nav bar */
-/* Force header elements to single color */
+/* ── Header ── */
+header.header,
+header.header *,
+.header,
+.navigation-menu,
+.navigation-menu__inner,
+.menu--desktop {
+  border: none !important;
+  border-bottom: none !important;
+}
+
+header.header {
+  box-shadow: 0 1px 8px #ff2d7866;
+}
 
 .header__logo::after {
   background: repeating-linear-gradient(
@@ -43,74 +48,53 @@ a:hover {
     var(--accent), var(--accent) 4px,
     transparent 0, transparent 10px
   ) !important;
-}
-
-.header__logo::after {
   filter: drop-shadow(0 0 4px #ff2d78);
-}
-
-.logo__cursor {
-  background: #ff2d78 !important;
 }
 
 .logo {
   box-shadow: 0 0 8px #ff2d78, 0 0 16px #ff2d7844;
 }
 
-.header {
-  border: none !important;
-  box-shadow: 0 1px 8px #ff2d7866;
+.logo__cursor {
+  background: #ff2d78 !important;
 }
 
-.navigation-menu {
-  border: none !important;
-}
-
-.navigation-menu__inner,
-.menu--desktop {
-  border: none !important;
-}
-
-.menu a,
-.navigation a {
+/* ── Navigation ── */
+.menu a, .navigation a {
   color: var(--color);
 }
 
-.menu a:hover,
-.navigation a:hover {
+.menu a:hover, .navigation a:hover {
   color: var(--accent);
   text-shadow: 0 0 6px #ff2d78;
 }
 
-/* Terminal prompt symbol */
-.prompt,
-.language-bash .prompt {
-  color: var(--accent);
-}
-
-/* Post titles */
+/* ── Typography ── */
 h1, h2, h3 {
   color: var(--accent);
 }
 
-/* Code blocks */
+/* ── Code blocks ── */
 pre, code {
   background-color: #111;
   border: 1px solid #ff2d78;
 }
 
-/* Cursor blink — neon pink */
+/* ── Misc ── */
+.prompt,
+.language-bash .prompt {
+  color: var(--accent);
+}
+
 .cursor {
   background-color: var(--accent);
 }
 
-/* Tag pills */
 .tag {
   border-color: var(--accent);
   color: var(--accent);
 }
 
-/* Selection highlight */
 ::selection {
   background: #ff2d78;
   color: #0a0a0a;
