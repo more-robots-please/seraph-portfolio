@@ -36,9 +36,6 @@ a:hover {
 
 /* Header / nav bar */
 /* Force header elements to single color */
-.header {
-  border-color: #ff2d78 !important;
-}
 
 .header__logo::after {
   background: repeating-linear-gradient(
@@ -61,6 +58,7 @@ a:hover {
 }
 
 .header {
+  border: none !important;
   box-shadow: 0 1px 8px #ff2d7866;
 }
 
