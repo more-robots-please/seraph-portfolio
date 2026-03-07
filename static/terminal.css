@@ -62,10 +62,8 @@ a:hover {
   box-shadow: 0 1px 8px #ff2d7866;
 }
 
-.menu {
+.navigation-menu {
   border: none !important;
-  border-top: none !important;
-  border-bottom: none !important;
 }
 
 .menu a,
