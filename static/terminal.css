@@ -9,8 +9,7 @@
   border-color: #ff2d78 !important;
 }
 
-.logo__cursor,
-.header__logo::after {
+.logo__cursor {
   background: #ff2d78 !important;
 }
 
