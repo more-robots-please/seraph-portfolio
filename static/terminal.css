@@ -17,8 +17,21 @@
   ) !important;
 }
 
+.header__logo::after {
+  filter: drop-shadow(0 0 4px #ff2d78);
+}
+
 .logo__cursor {
   background: #ff2d78 !important;
+}
+
+.logo {
+  box-shadow: 0 0 8px #ff2d78, 0 0 16px #ff2d7844;
+}
+
+.header {
+  border-bottom: 1px solid #ff2d78;
+  box-shadow: 0 1px 8px #ff2d7866;
 }
 
 @import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
