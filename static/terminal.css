@@ -1,5 +1,45 @@
 @import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
 
+/* Projects dropdown - show on hover */
+.menu {
+  position: relative;
+}
+
+.menu__dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #0a0a0a;
+  border: 1px solid #ff2d78;
+  box-shadow: 0 0 12px #ff2d7844;
+  min-width: 160px;
+  z-index: 100;
+  list-style: none;
+  padding: 0.25rem 0;
+}
+
+.menu:hover .menu__dropdown {
+  display: block;
+}
+
+.menu__dropdown li a {
+  display: block;
+  padding: 0.4rem 1rem;
+  color: var(--color);
+  white-space: nowrap;
+}
+
+.menu__dropdown li a:hover {
+  color: var(--accent);
+  text-shadow: 0 0 6px #ff2d78;
+  background: #111;
+}
+
+.menu__trigger {
+  cursor: default;
+}
+
 /* ── Variables ── */
 :root {
   --background: #0a0a0a;
