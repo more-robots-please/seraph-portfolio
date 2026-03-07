@@ -37,6 +37,7 @@
 
 .menu__trigger {
   cursor: default;
+  text-decoration: underline;
 }
 
 /* ── Variables ── */
