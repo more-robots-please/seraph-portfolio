@@ -18,4 +18,8 @@ publishDir = "public"
   name = "about"
   url = "/about"
   weight = 1
-  
+
+  identifier = "projects"
+  name = "projects"
+  url = "/projects"
+  weight = 2
