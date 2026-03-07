@@ -33,7 +33,6 @@
 .menu__dropdown li a:hover {
   color: var(--accent);
   text-shadow: 0 0 6px #ff2d78;
-  background: #111;
 }
 
 .menu__trigger {
