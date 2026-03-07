@@ -4,35 +4,6 @@
   --header-border: #ff2d78 !important;
 }
 
-/* Force header elements to single color */
-.header {
-  border-color: #ff2d78 !important;
-}
-
-.header__logo::after {
-  background: repeating-linear-gradient(
-    90deg,
-    var(--accent), var(--accent) 4px,
-    transparent 0, transparent 10px
-  ) !important;
-}
-
-.header__logo::after {
-  filter: drop-shadow(0 0 4px #ff2d78);
-}
-
-.logo__cursor {
-  background: #ff2d78 !important;
-}
-
-.logo {
-  box-shadow: 0 0 8px #ff2d78, 0 0 16px #ff2d7844;
-}
-
-.header {
-  border-bottom: 1px solid #ff2d78;
-  box-shadow: 0 1px 8px #ff2d7866;
-}
 
 @import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
 
@@ -64,9 +35,34 @@ a:hover {
 }
 
 /* Header / nav bar */
-.header,
-header {
-  border-bottom: 1px solid var(--accent);
+/* Force header elements to single color */
+.header {
+  border-color: #ff2d78 !important;
+}
+
+.header__logo::after {
+  background: repeating-linear-gradient(
+    90deg,
+    var(--accent), var(--accent) 4px,
+    transparent 0, transparent 10px
+  ) !important;
+}
+
+.header__logo::after {
+  filter: drop-shadow(0 0 4px #ff2d78);
+}
+
+.logo__cursor {
+  background: #ff2d78 !important;
+}
+
+.logo {
+  box-shadow: 0 0 8px #ff2d78, 0 0 16px #ff2d7844;
+}
+
+.header {
+  border-bottom: 1px solid #ff2d78;
+  box-shadow: 0 1px 8px #ff2d7866;
 }
 
 .menu a,
