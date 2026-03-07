@@ -38,10 +38,6 @@ header.header *,
   border-bottom: none !important;
 }
 
-header.header {
-  box-shadow: 0 1px 8px #ff2d7866;
-}
-
 .header__logo::after {
   background: repeating-linear-gradient(
     90deg,
