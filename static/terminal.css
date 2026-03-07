@@ -1,3 +1,26 @@
+:root {
+  --accent: #ff2d78 !important;
+  --primary-color: #ff2d78 !important;
+  --header-border: #ff2d78 !important;
+}
+
+/* Force header elements to single color */
+.header {
+  border-color: #ff2d78 !important;
+}
+
+.logo__cursor,
+.header__logo::after {
+  background: #ff2d78 !important;
+}
+
+/* The "barcode" decoration lines */
+.header__inner::after,
+.header__inner::before {
+  border-color: #ff2d78 !important;
+  color: #ff2d78 !important;
+}
+
 @import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
 
 body, code, pre, * {

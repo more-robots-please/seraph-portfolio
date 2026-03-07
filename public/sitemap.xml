@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seraph.ws/posts/firstpost/</loc>
-    <lastmod>2026-03-05T23:16:56+00:00</lastmod>
+    <loc>https://seraph.ws/tags/git/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/hugo/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/linux/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/nginx/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/posts/</loc>
-    <lastmod>2026-03-05T23:16:56+00:00</lastmod>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/self-hosting/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/posts/self-hosting-a-hugo-site/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/sysadmin/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/about/</loc>
     <lastmod>2026-03-05T00:00:00+00:00</lastmod>
@@ -24,9 +45,6 @@
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/projects/url-shortener/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/tags/web/</loc>

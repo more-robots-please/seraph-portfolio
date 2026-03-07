@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 23:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seraph.ws/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First‑post</title>
-      <link>https://seraph.ws/posts/firstpost/</link>
-      <pubDate>Thu, 05 Mar 2026 23:16:56 +0000</pubDate>
-      <guid>https://seraph.ws/posts/firstpost/</guid>
-      <description></description>
+      <title>Self-Hosting a Hugo Site with a Git Push Deploy Pipeline</title>
+      <link>https://seraph.ws/posts/self-hosting-a-hugo-site/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/posts/self-hosting-a-hugo-site/</guid>
+      <description>&lt;p&gt;I recently set up this site on a self-managed VPS instance rather than using a managed platform like GitHub Pages or Vercel. This post is a writeup of everything involved — partly as documentation for my future self, partly because I couldn&amp;rsquo;t find a single resource that covered all of it end to end.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-self-host&#34;&gt;Why Self-Host?&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been using Linux for most of my adult life but truth be told, I am an absolute novice when it comes to system administration. My Arch installation is an absolute mess full of deprecated packages, broken symlinks, and the SSD isn&amp;rsquo;t even living in its original machine since my desktop started failing. This project is first and foremost a way to teach myself proper system administration, development pipelines, get some familiarity with the tools I&amp;rsquo;ve just never fully bothered to learn, let alone master, and eventually be a cute little portfolio I can stick on my resume ^.^&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
