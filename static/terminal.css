@@ -1,3 +1,9 @@
+@import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
+
+body, code, pre, * {
+  font-family: 'Hack', monospace !important;
+}
+
 :root {
   --background: #0a0a0a;
   --color: #e0e0e0;
