@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seraph.ws/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Axum</title>
+      <link>https://seraph.ws/tags/axum/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/axum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postgresql</title>
+      <link>https://seraph.ws/tags/postgresql/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://seraph.ws/tags/rust/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Hosting</title>
+      <link>https://seraph.ws/tags/self-hosting/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/self-hosting/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Git</title>
       <link>https://seraph.ws/tags/git/</link>
@@ -37,38 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Self-Hosting</title>
-      <link>https://seraph.ws/tags/self-hosting/</link>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://seraph.ws/tags/self-hosting/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sysadmin</title>
       <link>https://seraph.ws/tags/sysadmin/</link>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://seraph.ws/tags/sysadmin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Actix</title>
-      <link>https://seraph.ws/tags/actix/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://seraph.ws/tags/actix/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rust</title>
-      <link>https://seraph.ws/tags/rust/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://seraph.ws/tags/rust/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>https://seraph.ws/tags/web/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://seraph.ws/tags/web/</guid>
       <description></description>
     </item>
   </channel>
