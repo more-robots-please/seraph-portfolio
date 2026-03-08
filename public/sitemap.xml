@@ -5,7 +5,19 @@
     <loc>https://seraph.ws/tags/axum/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://seraph.ws/posts/building-a-rust-link-shortener/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/linux/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/nginx/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://seraph.ws/tags/postgresql/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/posts/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/projects/</loc>
@@ -20,6 +32,9 @@
     <loc>https://seraph.ws/tags/self-hosting/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://seraph.ws/tags/sysadmin/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://seraph.ws/tags/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,19 +44,7 @@
     <loc>https://seraph.ws/tags/hugo/</loc>
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seraph.ws/tags/linux/</loc>
-    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/nginx/</loc>
-    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/posts/</loc>
-    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://seraph.ws/posts/self-hosting-a-hugo-site/</loc>
-    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/sysadmin/</loc>
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/about/</loc>
