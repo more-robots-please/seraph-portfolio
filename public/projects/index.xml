@@ -6,8 +6,22 @@
     <description>Recent content in Projects on seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seraph.ws/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QR Code Generator</title>
+      <link>https://seraph.ws/projects/qr-generator/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/projects/qr-generator/</guid>
+      <description>A self-hosted QR code generator written in Rust. Outputs SVG and PNG, supports logo embedding and print mode.</description>
+    </item>
+    <item>
+      <title>seraph-mail</title>
+      <link>https://seraph.ws/projects/seraph-mail-project/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/projects/seraph-mail-project/</guid>
+      <description>A bespoke webmail client built on top of docker-mailserver. IMAP/SMTP, dark mode, inline images, and a UI that actually looks the way I want.</description>
+    </item>
     <item>
       <title>Rust URL Shortener</title>
       <link>https://seraph.ws/projects/url-shortener/</link>

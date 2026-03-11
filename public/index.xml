@@ -16,6 +16,20 @@
       <description>&lt;p&gt;This one got away from me a little bit.&lt;/p&gt;&#xA;&lt;p&gt;What started as &amp;ldquo;I want to host my own email&amp;rdquo; turned into two days of infrastructure work that I am genuinely proud of, and which I am now going to document before I forget what I actually did.&lt;/p&gt;&#xA;&lt;h2 id=&#34;email-or-how-hard-could-it-be&#34;&gt;Email, Or: How Hard Could It Be&lt;/h2&gt;&#xA;&lt;p&gt;Famously, the answer is: pretty hard. Email is one of those things that looks simple from the outside — you send a message, it arrives somewhere — and reveals itself to be an absolutely cursed protocol the moment you try to run your own server.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>QR Code Generator</title>
+      <link>https://seraph.ws/projects/qr-generator/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/projects/qr-generator/</guid>
+      <description>A self-hosted QR code generator written in Rust. Outputs SVG and PNG, supports logo embedding and print mode.</description>
+    </item>
+    <item>
+      <title>seraph-mail</title>
+      <link>https://seraph.ws/projects/seraph-mail-project/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/projects/seraph-mail-project/</guid>
+      <description>A bespoke webmail client built on top of docker-mailserver. IMAP/SMTP, dark mode, inline images, and a UI that actually looks the way I want.</description>
+    </item>
+    <item>
       <title>Building a Self-Hosted Link Shortener in Rust with Axum and PostgreSQL</title>
       <link>https://seraph.ws/posts/building-a-rust-link-shortener/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
