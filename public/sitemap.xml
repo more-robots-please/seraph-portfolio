@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://seraph.ws/posts/email-and-more/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/docker/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/email/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/linux/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/posts/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/react/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/rust/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/security/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/self-hosting/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/sysadmin/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/</loc>
+    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
+  </url><url>
     <loc>https://seraph.ws/tags/axum/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/posts/building-a-rust-link-shortener/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/linux/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/tags/nginx/</loc>
@@ -17,25 +47,10 @@
     <loc>https://seraph.ws/tags/postgresql/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seraph.ws/posts/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://seraph.ws/projects/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seraph.ws/tags/rust/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://seraph.ws/projects/url-shortener/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/self-hosting/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/sysadmin/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/tags/git/</loc>

@@ -2,7 +2,7 @@
 title = "Building a Self-Hosted Mail Stack (And Everything Else)"
 date = "2026-03-11T00:58:44Z"
 author = ""
-tags = ["self-hosting", "email", "docker", "security", "linux", "sysadmin", "rust", "react"]
+tags = ["self-hosting", "email", "docker", "security", "linux", "sysadmin", "react"]
 keywords = ["self-hosted email", "docker-mailserver", "vaultwarden", "uptime kuma", "fail2ban", "abuseipdb"]
 description = "How I built a self-hosted mail server, a custom webmail client, a password manager, a monitoring stack, and somehow kept my sanity. Mostly."
 showFullContent = false
