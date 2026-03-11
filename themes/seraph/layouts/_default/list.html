@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section>
+  <p class="section-label">{{ .Title | lower }}</p>
+  {{ if eq .Section "posts" }}
+  <div class="post-list">
+    {{ range .Pages }}
+    <a class="post-item" href="{{ .Permalink }}">
+      <span class="post-date">{{ .Date.Format "2006-01-02" }}</span>
+      <span class="post-title">{{ .Title | lower }}</span>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="projects-grid">
+    {{ range .Pages }}
+    <a class="project-card" href="{{ .Permalink }}">
+      <div>
+        <div class="project-name">{{ .Title }}</div>
+        <div class="project-desc">{{ .Params.summary }}</div>
+      </div>
+      {{ with .Params.tags }}
+      <div class="project-tags">
+        {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+      </div>
+      {{ end }}
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+</section>
+{{ end }}

@@ -14,13 +14,7 @@
     <loc>https://seraph.ws/tags/linux/</loc>
     <lastmod>2026-03-11T00:58:44+00:00</lastmod>
   </url><url>
-    <loc>https://seraph.ws/posts/</loc>
-    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
-  </url><url>
     <loc>https://seraph.ws/tags/react/</loc>
-    <lastmod>2026-03-11T00:58:44+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/rust/</loc>
     <lastmod>2026-03-11T00:58:44+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/tags/security/</loc>
@@ -50,6 +44,9 @@
     <loc>https://seraph.ws/projects/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://seraph.ws/tags/rust/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://seraph.ws/projects/url-shortener/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,6 +60,9 @@
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/about/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/posts/</loc>
     <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/</loc>

@@ -1,0 +1,4 @@
+name = "seraph"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "Bespoke theme for seraph.ws"

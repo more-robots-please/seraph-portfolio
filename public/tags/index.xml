@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Seraph</title>
+    <title>Tags on seraph</title>
     <link>https://seraph.ws/tags/</link>
-    <description>Recent content in Tags on Seraph</description>
+    <description>Recent content in Tags on seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2026 00:58:44 +0000</lastBuildDate>
@@ -34,13 +34,6 @@
       <link>https://seraph.ws/tags/react/</link>
       <pubDate>Wed, 11 Mar 2026 00:58:44 +0000</pubDate>
       <guid>https://seraph.ws/tags/react/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rust</title>
-      <link>https://seraph.ws/tags/rust/</link>
-      <pubDate>Wed, 11 Mar 2026 00:58:44 +0000</pubDate>
-      <guid>https://seraph.ws/tags/rust/</guid>
       <description></description>
     </item>
     <item>
@@ -83,6 +76,13 @@
       <link>https://seraph.ws/tags/postgresql/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://seraph.ws/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://seraph.ws/tags/rust/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/rust/</guid>
       <description></description>
     </item>
     <item>

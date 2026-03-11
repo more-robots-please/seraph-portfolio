@@ -1,26 +1,34 @@
 baseURL = "https://seraph.ws/"
 languageCode = "en-us"
-title = "Seraph"
-theme = "terminal"
+title = "seraph"
+theme = "seraph"
 publishDir = "public"
 
-
 [params]
-  author = "Your Name"
-  description = "Personal portfolio and blog"
-  showReadingTime = true
+  description = "hobbyist developer building small tools and learning web/backend development."
   github = "https://github.com/more-robots-please"
-  customCSS = ["terminal.css"]
+  email = "camille@seraph.ws"
   favicon = "favicon.svg"
+  stack = [
+    "rust, go, typescript",
+    "linux / self-hosted infra",
+    "building in public"
+  ]
 
 [[menu.main]]
   identifier = "about"
   name = "about"
-  url = "/about"
+  url = "/#about"
   weight = 1
-  
+
 [[menu.main]]
   identifier = "projects"
   name = "projects"
-  url = "/projects"
+  url = "/#projects"
   weight = 2
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  url = "/#blog"
+  weight = 3

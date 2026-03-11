@@ -1,9 +1,6 @@
 ---
-title: "Hi, I’m Seraph"
-subtitle: "Python / Rust hobbyist • System admin"
+title: "seraph"
 date: 2026-03-05
 ---
 
-Welcome! I’m a hobbyist developer building small tools and learning web/backend development. Below you’ll find a few projects I’m proud of.
-
-
+**hobbyist developer** building small tools and learning web/backend development. interested in self-hosting, systems programming, and making things that are **useful, fast, and mine**.

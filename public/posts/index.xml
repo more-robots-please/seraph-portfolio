@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Seraph</title>
+    <title>blog on seraph</title>
     <link>https://seraph.ws/posts/</link>
-    <description>Recent content in Posts on Seraph</description>
+    <description>Recent content in blog on seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2026 00:58:44 +0000</lastBuildDate>
