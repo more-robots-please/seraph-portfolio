@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seraph.ws/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pastebin</title>
+      <link>https://seraph.ws/projects/pastebin-project/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/projects/pastebin-project/</guid>
+      <description>A self-hosted pastebin written in Rust. Syntax highlighting, burn-after-read, expiring pastes, and password protection.</description>
+    </item>
+    <item>
       <title>QR Code Generator</title>
       <link>https://seraph.ws/projects/qr-generator/</link>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>

@@ -6,8 +6,15 @@
     <description>Recent content in blog on seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 00:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 21:00:00 +0000</lastBuildDate>
     <atom:link href="https://seraph.ws/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Self-Hosted Pastebin in Rust</title>
+      <link>https://seraph.ws/posts/building-a-rust-pastebin/</link>
+      <pubDate>Wed, 11 Mar 2026 21:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/posts/building-a-rust-pastebin/</guid>
+      <description>&lt;p&gt;At this point I&amp;rsquo;m just building every classic web utility from scratch in Rust. Last week it was a link shortener. This week: pastebin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Same reason as everything else on this server — I want it to be mine. Pastebin.com is fine but it&amp;rsquo;s ad-ridden, has a size limit, and I don&amp;rsquo;t control what happens to the content. Running my own means I can paste whatever I want, set my own limits, and know exactly where the data lives.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building a Self-Hosted Mail Stack (And Everything Else)</title>
       <link>https://seraph.ws/posts/email-and-more/</link>
