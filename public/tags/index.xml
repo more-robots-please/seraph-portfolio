@@ -6,8 +6,50 @@
     <description>Recent content in Tags on seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seraph.ws/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch</title>
+      <link>https://seraph.ws/tags/arch/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/arch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devlog</title>
+      <link>https://seraph.ws/tags/devlog/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/devlog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>https://seraph.ws/tags/homelab/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://seraph.ws/tags/linux/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://seraph.ws/tags/rust/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Hosting</title>
+      <link>https://seraph.ws/tags/self-hosting/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/tags/self-hosting/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Axum</title>
       <link>https://seraph.ws/tags/axum/</link>
@@ -16,31 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>https://seraph.ws/tags/linux/</link>
-      <pubDate>Wed, 11 Mar 2026 21:00:00 +0000</pubDate>
-      <guid>https://seraph.ws/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Postgresql</title>
       <link>https://seraph.ws/tags/postgresql/</link>
       <pubDate>Wed, 11 Mar 2026 21:00:00 +0000</pubDate>
       <guid>https://seraph.ws/tags/postgresql/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rust</title>
-      <link>https://seraph.ws/tags/rust/</link>
-      <pubDate>Wed, 11 Mar 2026 21:00:00 +0000</pubDate>
-      <guid>https://seraph.ws/tags/rust/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Self-Hosting</title>
-      <link>https://seraph.ws/tags/self-hosting/</link>
-      <pubDate>Wed, 11 Mar 2026 21:00:00 +0000</pubDate>
-      <guid>https://seraph.ws/tags/self-hosting/</guid>
       <description></description>
     </item>
     <item>

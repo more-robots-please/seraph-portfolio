@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://seraph.ws/tags/arch/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/devlog/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/homelab/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/posts/seraph-update-post/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/linux/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/rust/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/self-hosting/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seraph.ws/tags/</loc>
+    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://seraph.ws/tags/axum/</loc>
     <lastmod>2026-03-11T21:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/posts/building-a-rust-pastebin/</loc>
     <lastmod>2026-03-11T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seraph.ws/tags/linux/</loc>
-    <lastmod>2026-03-11T21:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://seraph.ws/tags/postgresql/</loc>
     <lastmod>2026-03-11T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seraph.ws/tags/rust/</loc>
-    <lastmod>2026-03-11T21:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/self-hosting/</loc>
-    <lastmod>2026-03-11T21:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://seraph.ws/tags/sysadmin/</loc>
-    <lastmod>2026-03-11T21:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seraph.ws/tags/</loc>
     <lastmod>2026-03-11T21:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seraph.ws/posts/email-and-more/</loc>

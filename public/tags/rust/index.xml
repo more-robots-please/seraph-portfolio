@@ -6,8 +6,15 @@
     <description>Recent content in Rust on seraph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://seraph.ws/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infrastructure updates, a new machine, and the usual suffering</title>
+      <link>https://seraph.ws/posts/seraph-update-post/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://seraph.ws/posts/seraph-update-post/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while since I&amp;rsquo;ve written anything up. A lot has happened. Let me try to cover it without this turning into a novel.&lt;/p&gt;&#xA;&lt;h2 id=&#34;vaultwarden&#34;&gt;Vaultwarden&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been meaning to self-host a password manager for a long time. Vaultwarden is a lightweight, Bitwarden-compatible server — same clients, same browser extensions, your data stays on your own hardware. It&amp;rsquo;s running in Docker at vault.seraph.ws, behind nginx with a Let&amp;rsquo;s Encrypt cert. Signups are disabled after account creation. fail2ban watches the log for bad auth attempts. Honestly the easiest thing I&amp;rsquo;ve set up in months, which I&amp;rsquo;m choosing to read as a sign that I&amp;rsquo;m getting better at this.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building a Self-Hosted Pastebin in Rust</title>
       <link>https://seraph.ws/posts/building-a-rust-pastebin/</link>

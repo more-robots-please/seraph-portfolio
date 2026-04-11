@@ -42,7 +42,7 @@ It's playable. It's not done. I'll write it up properly when there's more to sho
 
 ## Empyrean
 
-I built a new desktop. I'd been running on aging hardware long enough that the "just reinstall and it'll be fine" approach had stopped working, so I assembled something new out of a mix of parts I had and parts I ordered: ASUS ROG STRIX X470-F, GTX 1660 Ti, TP-Link UB500 for Bluetooth. Named it `empyrean`, continuing the naming scheme. The build itself went fine.
+I built a new desktop. I'd been running on aging hardware long enough that the "just reinstall and it'll be fine" approach had stopped working, so I assembled something new out of a mix of parts I had and parts I ordered: ASUS ROG STRIX X470-F with a Ryzen 5 3600, GTX 1660 Ti, TP-Link UB500 for Bluetooth. Named it `empyrean`, continuing the naming scheme. The build itself went fine.
 
 Installing Arch on it did not go fine, and I say that as someone who has done this before and was not naive about what I was walking into.
 
