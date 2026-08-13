@@ -127,7 +127,7 @@
     margin-left: 272px;
     min-width: 0;
     padding: 2.6rem clamp(1.2rem, 4vw, 3.6rem) 6rem;
-    max-width: 1080px;
+    max-width: 1720px;
   }
   .page-head { margin-bottom: 2.4rem; }
   .page-head h1 {
@@ -213,15 +213,20 @@
   .doc-section a:focus-visible, .navlink:focus-visible { outline: 2px solid var(--accent2); outline-offset: 2px; }
   .doc-section strong { color: var(--ink); }
 
-  .table-wrap { overflow-x: auto; margin: 0 0 1.1rem; border: 1px solid var(--border); border-radius: 8px; }
+  .table-wrap {
+    overflow-x: auto;
+    margin: 0 calc(-1 * clamp(1.2rem, 4vw, 3.6rem)) 1.1rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
   table {
     border-collapse: collapse;
     width: 100%;
-    font-size: 0.87rem;
+    font-size: 0.76rem;
     background: var(--surface);
   }
   th, td {
-    padding: 0.5rem 0.7rem;
+    padding: 0.35rem 0.5rem;
     border-bottom: 1px solid var(--border);
     text-align: left;
     vertical-align: top;
@@ -290,7 +295,7 @@
     cursor: pointer;
   }
 
-  @media (max-width: 860px) {
+  @media (max-width: 1024px) {
     .sidebar {
       z-index: 15;
       transform: translateX(-100%);
