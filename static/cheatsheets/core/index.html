@@ -63,7 +63,7 @@
     font-family: var(--font-sans);
     line-height: 1.55;
     min-height: 100vh;
-    overflow-wrap: anywhere;
+    overflow-wrap: break-word;
   }
   ::selection { background: var(--accent); color: var(--accent-ink); }
 
@@ -225,10 +225,6 @@
     border-bottom: 1px solid var(--border);
     text-align: left;
     vertical-align: top;
-  }
-  td:first-child, th:first-child {
-    white-space: nowrap;
-    overflow-wrap: normal;
   }
   th {
     background: var(--surface-2);
