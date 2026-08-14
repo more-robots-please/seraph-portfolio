@@ -2863,6 +2863,43 @@ When collecting digital evidence, gather the **most volatile (easily lost) data 
     content.appendChild(section);
   });
 
+  (function colorizePinoutTable() {
+    const WIRE_HEX = {
+      white: "#f4f4f5",
+      green: "#2f9e44",
+      orange: "#e8590c",
+      blue: "#1971c2",
+      brown: "#8a5a2e"
+    };
+    function swatchHtml(text) {
+      const parts = text.split("/").map(function (p) { return p.trim().toLowerCase(); });
+      const colors = parts.map(function (p) { return WIRE_HEX[p]; });
+      if (colors.some(function (c) { return !c; })) return null;
+      const stripes = colors.map(function (c) {
+        return '<span style="flex:1;background:' + c + ';"></span>';
+      }).join("");
+      return '<span style="display:inline-flex;width:28px;height:14px;border-radius:3px;overflow:hidden;' +
+        'border:1px solid rgba(120,130,140,.55);vertical-align:middle;margin-right:0.5em;flex-shrink:0;">' +
+        stripes + '</span>';
+    }
+    const tables = document.querySelectorAll("#network-cabling-hardware table");
+    tables.forEach(function (table) {
+      const headerCells = Array.prototype.slice.call(table.querySelectorAll("thead th"));
+      const headerText = headerCells.map(function (c) { return c.textContent.trim(); });
+      if (headerText.indexOf("T568A") === -1 || headerText.indexOf("T568B") === -1) return;
+      const colIndexes = [headerText.indexOf("T568A"), headerText.indexOf("T568B")];
+      table.querySelectorAll("tbody tr").forEach(function (row) {
+        const cells = row.children;
+        colIndexes.forEach(function (idx) {
+          const cell = cells[idx];
+          if (!cell) return;
+          const swatch = swatchHtml(cell.textContent.trim());
+          if (swatch) cell.innerHTML = swatch + '<span style="vertical-align:middle;">' + cell.innerHTML + "</span>";
+        });
+      });
+    });
+  })();
+
   const navLinks = Array.prototype.slice.call(document.querySelectorAll(".navlink"));
   const sections = DOCS.map(function (k) { return document.getElementById(k); }).filter(Boolean);
 
